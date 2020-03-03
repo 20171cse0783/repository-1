@@ -3,7 +3,7 @@ H1{
  COLOR:BLUE;
  MARGIN-LEFT:100PX;
   }
-P{
+pre{
  FONT-STYLE:ITALIC;
  font-size:30px;
  COLOR:YELLOW;
@@ -15,5 +15,24 @@ BACKGROUND-IMAGE:URL("/home/Sem6B12/Downloads/Link to ONE.jpg");
 BACKGROUND-REPEAT:NO-REPEAT;
 BACKGROUND-ATTACHMENT:SCROLL;
 <img id="image"="/home/Sem6B12/Downloads/Link to 15940-wood-texture-with-borders-1920x1080-abstract-wallpaper.jpg">
+}
+img{
+border:25px solid green;
+height:250px;
+width:500px;
+padding:25px;
+margin:25px;
+background-color:powderblue;
+}
+p{
+display:block;
+width:300px;
+height:500px;
+padding:5px;
+border:1px solid blue;
+background-color:yellow;
+}
+a:hover{
+color:hotpink;
 }
 
